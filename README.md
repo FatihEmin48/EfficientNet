@@ -4,6 +4,6 @@
 
 
 
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 39ms/step
+* 1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 39ms/step
 
-Cycle Time: 0.0933 seconds
+* Cycle Time: 0.0933 seconds
